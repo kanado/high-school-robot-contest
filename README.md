@@ -10,6 +10,14 @@ These are the programs developed and actually used for the robot contest.
   - 
 
 ## Specification
+- Main microcontroller
+  - Arduino UNO(sub)
+  - Arduino MEGA(main) 
+
+- Motor driver
+  - [6CH motor controller](https://www.daisen-netstore.com/shopdetail/000000000074/ct12/page1/order/)
+  from DAISEN Electronics Industry Co.
+
 
 ## Description of each
 ### Motor driver
