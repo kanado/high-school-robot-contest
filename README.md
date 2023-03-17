@@ -9,6 +9,7 @@ These are the programs developed and actually used for the robot contest.
   - [Ultrasonic distance sensor](../main/README.md#ultrasonic-distance-sensor)
   - [Pixy cam](../main/README.md#pixy-cam)
   - [MicroSwitch](../main/README.md#microswitch)
+  - [Rotary Encoder](../main/READM.md#rotary-encoder)
 
 ## Specification
 - Main microcontroller
@@ -43,6 +44,8 @@ These are the programs developed and actually used for the robot contest.
 <br>Microswitches were used as contact sensors.  
   - [Microswitch (D2VW-5L1-1M) manufactured](https://www.fa.omron.co.jp/product/item/62299/) by OMRON
  
+- Rotary Encoder 
+
 
 ## Description of each
 
@@ -56,5 +59,5 @@ These are the programs developed and actually used for the robot contest.
 
 ### MicroSwitch
 
-
+Rotary Encoder
 
