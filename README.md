@@ -8,6 +8,7 @@ These are the programs developed and actually used for the robot contest.
   - [Compass sensor](../main/README.md#compass-sensor)
   - [Ultrasonic distance sensor](../main/README.md#ultrasonic-distance-sensor)
   - [Pixy cam](../main/README.md#pixy-cam)
+  - [MicroSwitch](../main/README.md#microswitch)
 
 ## Specification
 - Main microcontroller
@@ -28,8 +29,20 @@ These are the programs developed and actually used for the robot contest.
   from Parallax
   
 - Color camera sensor
-  - [Pixy (CMUcam5)](https://docs.pixycam.com/wiki/doku.php?id=wiki:v1:start)
-
+  - [Pixy (CMUcam5)](https://docs.pixycam.com/wiki/doku.php?id=wiki:v1:start) <br>
+  Pixy (CMUcam5) is a good choice for Pixy2, as few places are handling it now.
+  
+- Air hand
+<br>The opening and closing of the solenoid valve is controlled by a relay.
+  - The air hand is a [thin air chuck (MHF2)](https://www.smcworld.com/webcatalog/ja-jp/rotary-actuators-air-grippers/parallel-type-air-grippers/)
+ made by SMC.
+  - Solenoid valve is [030-4E1 DC12V](https://official.koganei.co.jp/product/030_ALL) 
+ made by Koganei.
+  
+- MicroSwitch
+<br>Microswitches were used as contact sensors.
+　- 
+ 
 
 ## Description of each
 
@@ -40,3 +53,8 @@ These are the programs developed and actually used for the robot contest.
 ### Ultrasonic distance sensor
 
 ### Pixy cam
+
+### MicroSwitch
+
+
+
