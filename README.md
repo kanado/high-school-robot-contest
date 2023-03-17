@@ -7,7 +7,7 @@ These are the programs developed and actually used for the robot contest.
   - [Motor driver](../main/README.md#motor-driver)
   - [Compass sensor](../main/README.md#compass-sensor)
   - [Ultrasonic distance sensor](../main/README.md#ultrasonic-distance-sensor)
-  - 
+  - [Pixy cam](../main/README.md#pixy-cam)
 
 ## Specification
 - Main microcontroller
@@ -27,11 +27,16 @@ These are the programs developed and actually used for the robot contest.
   - [Ultrasonic distance sensor](https://www.daisen-netstore.com/shopdetail/000000000226/ct11/page1/order/)
   from Parallax
   
+- Color camera sensor
+  - [Pixy (CMUcam5)](https://docs.pixycam.com/wiki/doku.php?id=wiki:v1:start)
+
+
 ## Description of each
+
 ### Motor driver
 
 ### Compass sensor
 
 ### Ultrasonic distance sensor
 
-### 
+### Pixy cam
