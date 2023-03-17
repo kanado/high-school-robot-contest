@@ -40,8 +40,9 @@ These are the programs developed and actually used for the robot contest.
  made by Koganei.
   
 - MicroSwitch
-<br>Microswitches were used as contact sensors.
-　- 
+<br>Microswitches were used as contact sensors.  
+　 - [Microswitch (D2VW-5L1-1M) manufactured](https://www.fa.omron.co.jp/product/item/62299/)
+by OMRON
  
 
 ## Description of each
