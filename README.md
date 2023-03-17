@@ -6,24 +6,32 @@ These are the programs developed and actually used for the robot contest.
 - [Description of each](../main/README.md#description-of-each)
   - [Motor driver](../main/README.md#motor-driver)
   - [Compass sensor](../main/README.md#compass-sensor)
-  - [Ultrasonic sensor](../main/README.md#ultrasonic-sensor)
+  - [Ultrasonic distance sensor](../main/README.md#ultrasonic-distance-sensor)
   - 
 
 ## Specification
 - Main microcontroller
-  - Arduino UNO(sub)
-  - Arduino MEGA(main) 
+  - Arduino MEGA(main)
+  - Arduino UNO(sub) 
 
 - Motor driver
   - [6CH motor controller](https://www.daisen-netstore.com/shopdetail/000000000074/ct12/page1/order/)
+  from DAISEN Electronics Industry Co.<br>
+  ※Operation may vary depending on the version of the chip installed.
+
+- Compass sensor
+  - [9D Compass(BNO055)](https://www.daisen-netstore.com/shopdetail/000000000093/ct11/page1/order/)
   from DAISEN Electronics Industry Co.
-
-
+ 
+- Ultrasonic distance sensor
+  - [Ultrasonic distance sensor](https://www.daisen-netstore.com/shopdetail/000000000226/ct11/page1/order/)
+  from Parallax
+  
 ## Description of each
 ### Motor driver
 
 ### Compass sensor
 
-### Ultrasonic sensor
+### Ultrasonic distance sensor
 
 ### 
