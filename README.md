@@ -59,5 +59,5 @@ These are the programs developed and actually used for the robot contest.
 
 ### MicroSwitch
 
-Rotary Encoder
+### Rotary Encoder
 
