@@ -46,7 +46,7 @@ These are the programs developed and actually used for the robot contest.
  
 - Rotary Encoder 
 <br>
- - [Incremental, Resolution 360 P/R, 25 mm-dia(E6A2-CW3C 360P/R 0.5M)](https://www.fa.omron.co.jp/product/item/2348/en/) by OMRON
+  - [Incremental, Resolution 360 P/R, 25 mm-dia(E6A2-CW3C 360P/R 0.5M)](https://www.fa.omron.co.jp/product/item/2348/en/) by OMRON
 
 
 ## Description of each
